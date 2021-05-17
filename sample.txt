@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>First activity</title>
+</head>
+<body>
+<h1>
+open console
+</h1>
+<script>
+console.log("This is my first script file");
+</script>
+</body>
+</html>
